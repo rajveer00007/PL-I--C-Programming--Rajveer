@@ -18,4 +18,6 @@ int main()
     printf("\n Roll Number:%d",rollnum);
     printf("\n Percentage:%f",per);
     printf("\n Grade:%c",grade);
+    
+    return 0;
 }
