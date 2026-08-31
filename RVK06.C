@@ -17,4 +17,6 @@ scanf("%d",&num3);
 total = (num1+num2+num3);
 average = total/3;
 printf("\n Average= %f", average);
+
+return 0;
 }
