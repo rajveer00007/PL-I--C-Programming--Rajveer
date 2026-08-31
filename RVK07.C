@@ -16,4 +16,6 @@ a = b;
 b = temp;
 printf("\n After swapping:");
 printf("\n a=%d, b=%d \n",a,b);
+
+return 0;
 }
