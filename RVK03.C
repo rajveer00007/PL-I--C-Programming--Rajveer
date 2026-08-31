@@ -10,5 +10,7 @@ int main()
     float area;
     area=(3.14*radius*radius);
     printf("\n Area of Circle=%f",area);
+
+    return 0;
 }
     
