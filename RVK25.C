@@ -1,7 +1,5 @@
 /*
 
-P25.png
-
 Program (25) -> Write a program to find the factorial of a given number using a user-defined function.
 
 Solution (1): Using for loop
