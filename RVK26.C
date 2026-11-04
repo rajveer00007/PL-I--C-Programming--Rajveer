@@ -20,11 +20,11 @@ while(i <= n)
 
 {
 
-}
-
 fact = fact* i; i++;
 
 return fact;
+
+}
 
 int main()
 
