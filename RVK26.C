@@ -18,7 +18,11 @@ while(i <= n)
 
 {
 
-fact = fact* i; i++;
+fact = fact* i; 
+
+i++;
+
+}
 
 return fact;
 
